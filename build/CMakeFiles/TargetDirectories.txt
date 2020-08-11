@@ -1,3 +1,0 @@
-/home/plabini/Documents/Stepper-motor/build/CMakeFiles/rebuild_cache.dir
-/home/plabini/Documents/Stepper-motor/build/CMakeFiles/edit_cache.dir
-/home/plabini/Documents/Stepper-motor/build/CMakeFiles/my_program.dir
